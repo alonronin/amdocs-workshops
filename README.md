@@ -16,3 +16,23 @@
 - https://www.testim.io/
 - https://applitools.com/
 - https://www.cypress.io/ (open source)
+
+### Wrappoing bootstrap with css modules and scss
+
+```scss
+
+.bootstrap {
+  :global {
+    @import "~bootstrap/scss/bootstrap"
+  }
+}
+
+```
+
+```js
+import { bootstrap } from './style.scss';
+
+function Component() {
+  return <div className={bootstrap}>// ... your bootstrap markup </div>;
+}
+```

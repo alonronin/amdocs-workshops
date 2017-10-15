@@ -17,7 +17,7 @@
 - https://applitools.com/
 - https://www.cypress.io/ (open source)
 
-### Wrappoing bootstrap with css modules and scss
+### Wrapping bootstrap with css modules and scss
 
 ```scss
 

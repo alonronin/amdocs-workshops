@@ -18,6 +18,14 @@
 - https://applitools.com/
 - https://www.cypress.io/ (open source)
 
+### Webstorm Plugins
+
+- https://quokkajs.com/
+
+### Micro Front-End presentation
+
+- https://docs.google.com/presentation/d/1LywSnZjWt_hrHKVVPCSq4GCxulxOZJ_5cSX-4_ww9p4/edit?usp=sharing
+
 ### Wrapping bootstrap with css modules and scss
 
 ```scss
@@ -37,3 +45,11 @@ function Component() {
   return <div className={bootstrap}>// ... your bootstrap markup </div>;
 }
 ```
+
+### Useful Links
+
+- [Great React Boilerplate with Canonical Routing](https://github.com/kriasoft/react-static-boilerplate)
+- [JS Best Practices](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [Great books on JS and ES-NEXT](http://exploringjs.com/)
+- [MobX Video on egghead.io](https://egghead.io/lessons/javascript-derive-computed-values-and-manage-side-effects-with-mobx-reactions)
+

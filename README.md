@@ -1,5 +1,6 @@
 # amdocs-workshops
 
+- https://github.com/alonronin/amdocs-react-bootstrap
 - https://github.com/alonronin/amdocs-components
 - https://github.com/alonronin/amdocs-responsive-form
 - https://github.com/alonronin/amdocs-mobx-router

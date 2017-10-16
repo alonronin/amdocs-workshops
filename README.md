@@ -52,4 +52,4 @@ function Component() {
 - [JS Best Practices](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Great books on JS and ES-NEXT](http://exploringjs.com/)
 - [MobX Video on egghead.io](https://egghead.io/lessons/javascript-derive-computed-values-and-manage-side-effects-with-mobx-reactions)
-
+- [Laying out the future with Grid and Flexbox](https://www.youtube.com/watch?v=ibeF6rbzD70)

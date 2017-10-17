@@ -6,8 +6,10 @@
 - https://github.com/alonronin/amdocs-mobx-router
 - https://github.com/alonronin/amdocs-webpack-workshop
 
-### Flex
+### Flex/CSS Grid
 
+- [Flex Playground](http://the-echoplex.net/flexyboxes/)
+- [CSS Grid Playground](https://mozilladevelopers.github.io/playground/)
 - https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
 - https://codepen.io/justd/pen/yydezN/
 - http://jsbin.com/boritagapi/5/edit?css,output
